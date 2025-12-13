@@ -1,35 +1,61 @@
-# 👋 Hi, I'm Nguyen Dang Khoa
+## Nguyen Dang Khoa
 
-🎯 I'm passionate about **Cybersecurity** — especially in **Ethical Hacking**, **SOC Analysis**, and **Automation**.  
-💻 I love building projects with **Python** and **C++**, exploring new technologies, and constantly improving my skills.
+**Cybersecurity Student | Entry-Level Ethical Hacking & SOC-Oriented**
 
----
-
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/nguynekhoa00)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/ndk.2109)
+I am a cybersecurity-focused student with a clear interest in **Ethical Hacking** and **SOC operations** at an entry level.
+My current goal is to build a solid technical foundation through hands-on labs, security practice environments, and small automation scripts, while developing the mindset required for real-world security analysis.
 
 ---
 
-## 🛠️ Tech Stack:
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Automation](https://img.shields.io/badge/Automation-00A98F?style=for-the-badge&logo=githubactions&logoColor=white)
-![Cybersecurity](https://img.shields.io/badge/Cybersecurity-FF0000?style=for-the-badge&logo=protonvpn&logoColor=white)
+## Core Interests
+
+* Ethical Hacking (fundamentals, lab-based practice)
+* SOC fundamentals & security monitoring concepts
+* Security learning through hands-on labs and CTF-style challenges
 
 ---
 
-## 🔐 Cybersecurity Focus:
-- 🛡️ Ethical Hacking & Penetration Testing  
-- 🧠 SOC Analysis & Threat Hunting  
-- ⚙️ Automation for Security Workflows  
-- ☁️ Cloud Security on Google Cloud Platform  
+## Technical Skills
+
+**Programming & Scripting**
+
+* Python (basic scripting, small automation tasks)
+* C++ (fundamentals, academic problem-solving)
+
+**Cybersecurity Fundamentals**
+
+* Basic reconnaissance concepts (enumeration mindset, attack surface awareness)
+* Understanding of common web vulnerabilities at a conceptual level
+* Entry-level SOC concepts: alerts, logs, incident awareness
+
+**Systems & Environment**
+
+* Linux and Windows basic usage for security labs
+* Basic understanding of networking concepts (IP, ports, services)
+* MySQL (basic queries and usage in learning projects)
 
 ---
 
-## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=khoa36015&show_icons=true&theme=tokyonight)
-![](https://github-readme-streak-stats.herokuapp.com/?user=khoa36015&theme=tokyonight)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=khoa36015&layout=compact&theme=tokyonight)
+## Learning & Practice
+
+* Practice through isolated labs and CTF-style environments
+* Writing technical notes and basic security reports for self-study
+* Focus on understanding **how attacks and defenses work**, not just tool execution
+
+---
+
+## GitHub Overview
+
+* Learning-oriented repositories (scripts, lab notes, experiments)
+* Code written for clarity and understanding rather than production use
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=khoa36015\&show_icons=true\&theme=tokyonight)
+
+---
+
+## Contact
+
+* Facebook: [https://facebook.com/nguynekhoa00](https://facebook.com/nguynekhoa00)
+* Instagram: [https://instagram.com/ndk.2109](https://instagram.com/ndk.2109)
+
+---
