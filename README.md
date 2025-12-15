@@ -1,61 +1,55 @@
-## Nguyen Dang Khoa
+# Nguyen Dang Khoa
 
-**Cybersecurity Student | Entry-Level Ethical Hacking & SOC-Oriented**
+Entry-level cybersecurity candidate with hands-on experience in security assessment and vulnerability analysis through controlled lab environments.  
+Focused on understanding attack surfaces, system misconfigurations, and real-world security impact rather than tool-driven exploitation.
 
-I am a cybersecurity-focused student with a clear interest in **Ethical Hacking** and **SOC operations** at an entry level.
-My current goal is to build a solid technical foundation through hands-on labs, security practice environments, and small automation scripts, while developing the mindset required for real-world security analysis.
-
----
-
-## Core Interests
-
-* Ethical Hacking (fundamentals, lab-based practice)
-* SOC fundamentals & security monitoring concepts
-* Security learning through hands-on labs and CTF-style challenges
+Career Goal  
+Seeking Security / Red Team Intern opportunities where I can apply structured security assessment methodologies, strengthen reporting skills, and gain real-world security experience.
 
 ---
 
-## Technical Skills
-
-**Programming & Scripting**
-
-* Python (basic scripting, small automation tasks)
-* C++ (fundamentals, academic problem-solving)
-
-**Cybersecurity Fundamentals**
-
-* Basic reconnaissance concepts (enumeration mindset, attack surface awareness)
-* Understanding of common web vulnerabilities at a conceptual level
-* Entry-level SOC concepts: alerts, logs, incident awareness
-
-**Systems & Environment**
-
-* Linux and Windows basic usage for security labs
-* Basic understanding of networking concepts (IP, ports, services)
-* MySQL (basic queries and usage in learning projects)
+Security Focus
+- Attack surface identification and misconfiguration analysis
+- Linux and Windows security fundamentals
+- Access control and privilege management concepts
+- Security assessment reporting (non-CTF style)
 
 ---
 
-## Learning & Practice
+Selected Work
+- Security Assessment Portfolio  
+  https://github.com/khoa36015/security-assessment-reports  
+  Professional security assessment reports based on controlled lab environments (Hack The Box), focusing on root cause analysis, security impact, and mitigation.
 
-* Practice through isolated labs and CTF-style environments
-* Writing technical notes and basic security reports for self-study
-* Focus on understanding **how attacks and defenses work**, not just tool execution
-
----
-
-## GitHub Overview
-
-* Learning-oriented repositories (scripts, lab notes, experiments)
-* Code written for clarity and understanding rather than production use
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=khoa36015\&show_icons=true\&theme=tokyonight)
+- Hack The Box Assessments
+  - Hacknet (Linux): authentication weaknesses and privilege escalation analysis
+  - MonitorFour (Windows): insecure service configuration resulting in immediate high-privilege access
 
 ---
 
-## Contact
-
-* Facebook: [https://facebook.com/nguynekhoa00](https://facebook.com/nguynekhoa00)
-* Instagram: [https://instagram.com/ndk.2109](https://instagram.com/ndk.2109)
+Education
+- B.Sc. in Information Technology (Year 1) – Saigon University
 
 ---
+
+Certifications
+- Ethical Hacking – Cisco Networking Academy  
+- Networking Basics – Cisco Networking Academy
+
+---
+
+Additional Skills
+- Strong English reading comprehension for technical documentation and security materials
+- Basic usage of Microsoft Azure services for VPS setup and configuration
+- Able to deploy and manage virtual servers in cloud environments
+- Use of AI tools to assist with troubleshooting, analysis, and problem-solving in technical tasks
+
+---
+
+Links
+- GitHub: https://github.com/khoa36015
+
+---
+
+This profile emphasizes security thinking, practical system setup, and professional reporting over tool usage.  
+Detailed technical notes are available upon request.
