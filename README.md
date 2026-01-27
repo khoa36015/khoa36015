@@ -1,4 +1,3 @@
-This is the professional English version of your profile, styled for a GitHub README.md or your CV summary. It uses high-level industry terminology to highlight your "Security Researcher" mindset.
 
 🛡️ NGUYEN DANG KHOA
 Entry-level Cybersecurity Candidate | Security Researcher 
