@@ -27,10 +27,6 @@ GitHub Portfolio Link Professional security reports based on controlled lab envi
 
 
 
-Hacknet (Linux): Analysis of authentication weaknesses and privilege escalation vectors. 
-
-
-
 
 MonitorsFour (Windows): Exploitation of insecure service configurations leading to full administrative access. 
 
